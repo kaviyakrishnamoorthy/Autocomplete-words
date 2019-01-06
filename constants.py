@@ -1,0 +1,4 @@
+TOP_RESULT_COUNT = 25
+MIN_CHARS = 3
+N__GRAM = 3
+MATCH_ALGO = 'ngrams'
